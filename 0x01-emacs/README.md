@@ -1,0 +1,1 @@
+# This project is about learning the best text editor emacs, which has both gui and cli interfaces.
